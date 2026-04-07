@@ -1,7 +1,7 @@
 ## Reproducible and Comparable to Our Setting Without Foundation Models
 
-| Method | Paper | Conference | Include | Reasoning |
-|--------|-------|------------|---------|-----------|
+| Method | Paper | Conference | Include |
+|--------|-------|------------|---------|
 | ADBS | Adaptive Decision Boundary for Few-Shot Class-Incremental Learning | AAAI 2025 | Yes |
 | Covariance Space Regularization | Covariance-Based Space Regularization for Few-Shot Class Incremental Learning | WACV 2025 | Yes |
 
