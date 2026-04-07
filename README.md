@@ -2,8 +2,8 @@
 
 | Method | Paper | Conference | Include | Reasoning |
 |--------|-------|------------|---------|-----------|
-| ADBS | Adaptive Decision Boundary for Few-Shot Class-Incremental Learning | AAAI 2025 | Yes | Plug-in method; not standalone; evaluated as augmentation over base methods |
-| Covariance Space Regularization | Covariance-Based Space Regularization for Few-Shot Class Incremental Learning | WACV 2025 | Yes | Plug-in method; modifies loss; not standalone framework |
+| ADBS | Adaptive Decision Boundary for Few-Shot Class-Incremental Learning | AAAI 2025 | Yes |
+| Covariance Space Regularization | Covariance-Based Space Regularization for Few-Shot Class Incremental Learning | WACV 2025 | Yes |
 
 ## No code
 
